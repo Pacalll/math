@@ -21,4 +21,4 @@ This repository contains Python scripts with mathematical functions. The goal of
 python compound_interest.py
 ```
 ## License
-This project is licensed under the MIT [LICENSE](https://github.com/Pacalll/math/blob/LICENSE) - see the LICENSE file for details.
+This project is licensed under the MIT [LICENSE](https://github.com/Pacalll/math/blob/main/LICENSE) - see the LICENSE file for details.
