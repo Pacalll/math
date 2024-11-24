@@ -2,13 +2,13 @@ def compound_interest(annual_saving_rate, interest, years):
     """
         Calculates and prints the compound interest for a savings plan over a specified number of years.
 
-        Parameters:
-        annual_saving_rate (float or int): The amount of money saved annually.
-        interest (float or int): The annual interest rate (in percentage).
-        years (int): The number of years for which the interest is calculated.
+        Args:
+            annual_saving_rate (float or int): The amount of money saved annually.
+            interest (float or int): The annual interest rate (in percentage).
+            years (int): The number of years for which the interest is calculated.
 
         Returns:
-        None: The function prints the results directly.
+             None: The function prints the results directly.
 
         Example:
         1. Year Total Sum:  3,210.00     Total Savings: 3,000.00     Interest: 210.00
